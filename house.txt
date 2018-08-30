@@ -1,2 +1,25 @@
 # ghosts
 APCS50
+a door handle is a device used to open or close a door by hand.It consists of a latch, a cylinder like object and the knob.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What does the device look like?
+
+What kind of data does it accept?
+
+How does it process that data?
+
+What is the result of that processing?
+
