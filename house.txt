@@ -1,6 +1,6 @@
 # ghosts
 APCS50
-a door handle is a device used to open or close a door by hand.It consists of a latch, a cylinder like object and the knob.
+a door handle is a device used to open or close a door by hand. It consists of a latch, a cylinder like object and the knob.
 
 
 
@@ -17,9 +17,17 @@ a door handle is a device used to open or close a door by hand.It consists of a 
 
 What does the device look like?
 
+this device is a round object that has a bolt or spindle running through it and is connected to the cylinder, this bolt is placed right above the cylinder.
+
 What kind of data does it accept?
+
+this device can be turned left or right which can move the cylinder in or out. When the cylinder gets turned left or right it can also be pulled on. 
 
 How does it process that data?
 
+when the round object is rotated one way it causes the cylinder to move out of the latch it is in, and when it gets turned the other way it causes the cylinder to go back into the latch. 
+
 What is the result of that processing?
+
+when the round object gets rotated to make the cylinder move out of the latch and you pull on the round object it causes the thing it is attached to to be opened. 
 
