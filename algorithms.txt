@@ -1,0 +1,60 @@
+brush teeth 
+text: to be able to brush your teeth you grab the tooth paste and put it on the tooth brush. 
+Then you brush the tooth brush up against your teeth. Do that until your mouth hurts, then you spit.
+
+pseudocode: 
+grab tooth paste
+grab cap of tooth paste with one hand 
+hold body of tooth paste container firmly 
+twist the cap counter clockwise until the cap comes off
+grab tooth brush in other hand
+hold tooth paste hole over tooth brush 
+squeeze until tooth paste is on tooth brush
+put the brissle end of the tooth brush to your teeth
+moce the tooth brush back and forth for 30 seconds
+spit
+
+eat an orange
+text: to eat an orange you just peel it and then shove the orange in your mouth, then you chew and swallow.
+
+pseudocode:
+grab orange in one hand
+with your other hand take a knife 
+make a slight incision into the orange with the sharp end of the knife
+put knife down
+grab the peel where the incision was made with your hand
+keeping a grip on the rind pull towards you
+repeat until there is no more rind on the orange
+grab the peeled orange and put it in your mouth
+chew until it is able to be swallowed
+swallow 
+repeat until there is no orange left to be eaten
+
+making cereal
+text: the first step to eating breakfast is to get the cereal from the pantry. The next step is to grab the milk from the refrigerator.
+After that you grab a bowl from the cupboard and a spoon from the silverware drawer. Then you grab the milk and poor it into the bowl.
+After that you grab the cereal and put it in the bowl. 
+
+pseudocode: 
+go to pantry
+grab box of cereal
+go to cupboard
+open cupboard
+grab bowl
+open silverware drawer
+grab spoon
+open refrigerator
+grab milk
+open box of cereal
+unroll bag of cereal
+put opening of the bag of cereal over the bowl
+shake the bag slowly and nonviolently
+repeat until the bowl is full
+put bag down
+grab milk 
+slowly remove the cap
+put opening of milk over bowl 
+tilt the jug slowly until milk starts coming out
+repeat until the bowl is filled with milk
+grab spoon
+put it in the bowl
